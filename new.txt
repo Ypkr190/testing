@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi - copy2
+=======
+Hi
+>>>>>>> origin/main
